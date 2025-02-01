@@ -4,7 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
     <title>Roott Implant System - فرع إسكندرية</title>
+     <link rel="icon" type="image/svg+xml" href="favicon.ico">
+    <img src="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/download.png" alt="Logo">
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
@@ -116,8 +119,7 @@
 <header>
     <h1 id="site-title">Roott Implant System</h1>
     <h2 id="branch-title">فرع إسكندرية</h2>     <p id="branch-address">العصافرة بحري، شارع سليمان الفارسي، بجوار جزارة الحمد</p>
-    <link rel="icon" type="image/svg+xml" href="favicon.ico">
-    <img src="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/download.png" alt="Logo">
+
 
 </header>
 

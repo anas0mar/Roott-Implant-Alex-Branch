@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -117,6 +116,7 @@
 <header>
     <h1 id="site-title">Roott Implant System</h1>
     <h2 id="branch-title">فرع إسكندرية</h2>     <p id="branch-address">العصافرة بحري، شارع سليمان الفارسي، بجوار جزارة الحمد</p>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
 
 </header>
 

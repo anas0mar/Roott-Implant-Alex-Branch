@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
     <title>Roott Implant System - فرع إسكندرية</title>
-    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="favicon.ico">
     <img src="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/download.png" alt="Logo">
     <style>
         body {

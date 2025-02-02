@@ -13,8 +13,6 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="favicon.png">
-</head>
-
 
     <style>
         

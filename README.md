@@ -5,8 +5,14 @@
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
     <title>Roott Implant System - فرع إسكندرية</title>
     <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+<!-- الأيقونة الأساسية -->
+<link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
 <link rel="shortcut icon" href="favicon.ico">
+
+<!-- دعم أجهزة Apple -->
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
 
     <style>
         

@@ -4,15 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
     <title>Roott Implant System - فرع إسكندرية</title>
-    <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
-        <!-- أيقونة الموقع (Favicon) -->
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
-    <link rel="shortcut icon" href="favicon.ico">
-
-    <!-- دعم محركات البحث (Google, Bing, etc.) -->
+    <link rel="icon" type="image/png" sizes="32x32" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
+    <link rel="shortcut icon" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
+    <meta name="msapplication-TileImage" content="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="theme-color" content="#ffffff">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="favicon.png">
+    <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
+
 
     <style>
         

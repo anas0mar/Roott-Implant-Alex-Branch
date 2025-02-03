@@ -15,9 +15,9 @@
    
     <style> 
         img {
-       background-color: inherit; /* تخلي الخلفية نفس لون الموقع */
-       border-radius: 10px; /* اختياري: يعطي حواف ناعمة */
-       padding: 5px; /* اختياري: يضيف مسافة صغيرة حول الصورة */
+            background-color: inherit; /* تخلي الخلفية نفس لون الموقع */
+            border-radius: 10px; /* اختياري: يعطي حواف ناعمة */
+            padding: 5px; /* اختياري: يضيف مسافة صغيرة حول الصورة */
 }
 
     

@@ -8,10 +8,10 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="msapplication-TileImage" content="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="theme-color" content="#ffffff">
+        <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
    
     <style> 
-    <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
-    img {
+     img {
     background-color: inherit; /* تخلي الخلفية نفس لون الموقع */
     border-radius: 10px; /* اختياري: يعطي حواف ناعمة */
     padding: 5px; /* اختياري: يضيف مسافة صغيرة حول الصورة */

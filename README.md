@@ -10,15 +10,14 @@
     <meta name="theme-color" content="#ffffff">
         <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
         <div class="image-container">
-    <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
-</div>
+ </div>
 
    
     <style> 
-     img {
-    background-color: inherit; /* تخلي الخلفية نفس لون الموقع */
-    border-radius: 10px; /* اختياري: يعطي حواف ناعمة */
-    padding: 5px; /* اختياري: يضيف مسافة صغيرة حول الصورة */
+        img {
+       background-color: inherit; /* تخلي الخلفية نفس لون الموقع */
+       border-radius: 10px; /* اختياري: يعطي حواف ناعمة */
+       padding: 5px; /* اختياري: يضيف مسافة صغيرة حول الصورة */
 }
 
     

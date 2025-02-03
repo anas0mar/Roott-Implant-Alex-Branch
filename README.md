@@ -9,6 +9,10 @@
     <meta name="msapplication-TileImage" content="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="theme-color" content="#ffffff">
         <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
+        <div class="image-container">
+    <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">
+</div>
+
    
     <style> 
      img {

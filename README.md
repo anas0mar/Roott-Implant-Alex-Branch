@@ -5,7 +5,7 @@
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
     <title>Roott Implant System - فرع إسكندرية</title>
     <link rel="shortcut icon" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
+    <link rel="apple-touch-icon" sizes="80x80" href="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="msapplication-TileImage" content="https://github.com/anas0mar/Roott-Implant-Alex-Branch/blob/main/favicon.ico">
     <meta name="theme-color" content="#ffffff">
         <img src="https://i.postimg.cc/V5yfWKX9/apple-touch-icon.png" alt="Logo">

@@ -1,5 +1,23 @@
 <html lang="ar" dir="rtl">
 <head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>توسيط الصورة</title>
+    <style>
+        /* إضافة تنسيق لتوسيط الصورة */
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* يعين ارتفاع الحاوية ليكون 100% من ارتفاع الشاشة */
+        }
+
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            border-radius: 10px;
+            padding: 5px;
+        }
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Roott Implant System Alexandria Branch - Leading Implant Solutions">
